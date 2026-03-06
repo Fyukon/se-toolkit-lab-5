@@ -166,15 +166,18 @@ async def get_timeline(
     if not task_ids:
         return []
 
-    # Query: group interactions by date
+    # Query: group interactions by date using DATE() function
+    # Use func.date() for SQLite and PostgreSQL compatibility
+    date_expr = func.date(InteractionLog.created_at)
+    
     stmt = (
         select(
-            func.date(InteractionLog.created_at).label("date"),
+            date_expr.label("date"),
             func.count(InteractionLog.id).label("submissions"),
         )
         .where(InteractionLog.item_id.in_(task_ids))
-        .group_by(func.date(InteractionLog.created_at))
-        .order_by(func.date(InteractionLog.created_at))
+        .group_by(date_expr)
+        .order_by(date_expr)
     )
 
     result = await session.exec(stmt)
