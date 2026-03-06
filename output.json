@@ -1,0 +1,426 @@
+{
+  "logs": [
+    {
+      "id": 3877,
+      "student_id": "be0649bd",
+      "group": "B25-DSAI-02",
+      "lab": "lab-04",
+      "task": "task-2",
+      "score": null,
+      "passed": 10,
+      "failed": 4,
+      "total": 14,
+      "checks": [
+        {
+          "check_id": "task2_issue_exists",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_bug1_fixed",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_bug2_fixed",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_commit_bug1",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_commit_bug2",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_unit_test_added",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_e2e_test_status",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_e2e_test_list",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_commit_ai_tests",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_ai_tests_present",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_unit_tests_pass",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_interactions_deployed",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_issue_has_linked_pr",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_pr_approved",
+          "title": "",
+          "passed": false
+        }
+      ],
+      "submitted_at": "2026-03-01T00:13:38.278619"
+    },
+    {
+      "id": 3878,
+      "student_id": "be0649bd",
+      "group": "B25-DSAI-02",
+      "lab": "lab-04",
+      "task": "task-2",
+      "score": null,
+      "passed": 10,
+      "failed": 4,
+      "total": 14,
+      "checks": [
+        {
+          "check_id": "task2_issue_exists",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_bug1_fixed",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_bug2_fixed",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_commit_bug1",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_commit_bug2",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_unit_test_added",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_e2e_test_status",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_e2e_test_list",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_commit_ai_tests",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_ai_tests_present",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_unit_tests_pass",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_interactions_deployed",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_issue_has_linked_pr",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_pr_approved",
+          "title": "",
+          "passed": false
+        }
+      ],
+      "submitted_at": "2026-03-01T00:18:09.719386"
+    },
+    {
+      "id": 3879,
+      "student_id": "be0649bd",
+      "group": "B25-DSAI-02",
+      "lab": "lab-04",
+      "task": "task-2",
+      "score": null,
+      "passed": 10,
+      "failed": 4,
+      "total": 14,
+      "checks": [
+        {
+          "check_id": "task2_issue_exists",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_bug1_fixed",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_bug2_fixed",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_commit_bug1",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_commit_bug2",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_unit_test_added",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_e2e_test_status",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_e2e_test_list",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_commit_ai_tests",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_ai_tests_present",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_unit_tests_pass",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_interactions_deployed",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_issue_has_linked_pr",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_pr_approved",
+          "title": "",
+          "passed": false
+        }
+      ],
+      "submitted_at": "2026-03-01T00:21:32.348942"
+    },
+    {
+      "id": 3880,
+      "student_id": "be0649bd",
+      "group": "B25-DSAI-02",
+      "lab": "lab-04",
+      "task": "task-2",
+      "score": null,
+      "passed": 10,
+      "failed": 4,
+      "total": 14,
+      "checks": [
+        {
+          "check_id": "task2_issue_exists",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_bug1_fixed",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_bug2_fixed",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_commit_bug1",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_commit_bug2",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_unit_test_added",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_e2e_test_status",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_e2e_test_list",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_commit_ai_tests",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_ai_tests_present",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_unit_tests_pass",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_interactions_deployed",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_issue_has_linked_pr",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_pr_approved",
+          "title": "",
+          "passed": false
+        }
+      ],
+      "submitted_at": "2026-03-01T00:29:44.166338"
+    },
+    {
+      "id": 3881,
+      "student_id": "be0649bd",
+      "group": "B25-DSAI-02",
+      "lab": "lab-04",
+      "task": "task-2",
+      "score": null,
+      "passed": 10,
+      "failed": 4,
+      "total": 14,
+      "checks": [
+        {
+          "check_id": "task2_issue_exists",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_bug1_fixed",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_bug2_fixed",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_commit_bug1",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_commit_bug2",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_unit_test_added",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_e2e_test_status",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_e2e_test_list",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_commit_ai_tests",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_ai_tests_present",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_unit_tests_pass",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_interactions_deployed",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_issue_has_linked_pr",
+          "title": "",
+          "passed": false
+        },
+        {
+          "check_id": "task2_pr_approved",
+          "title": "",
+          "passed": false
+        }
+      ],
+      "submitted_at": "2026-03-01T00:30:18.367015"
+    }
+  ],
+  "count": 5,
+  "has_more": true
+}
